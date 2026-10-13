@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "social.preflight/mcp",
+  "title": "Preflight",
+  "description": "Schedule, validate and publish social posts to 12 networks; every post is rule-checked first.",
+  "version": "1.0.0",
+  "websiteUrl": "https://preflight.social",
+  "repository": {
+    "url": "https://github.com/preflight-social/mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://preflight.social/mcp"
+    }
+  ]
+}

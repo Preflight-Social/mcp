@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "preflight": {
+      "url": "https://preflight.social/mcp",
+      "headers": {
+        "Authorization": "Bearer sk_live_..."
+      }
+    }
+  }
+}
