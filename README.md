@@ -1,5 +1,7 @@
 # Preflight MCP server
 
+[![smithery badge](https://smithery.ai/badge/info-pcqw/preflight)](https://smithery.ai/servers/info-pcqw/preflight)
+
 [Preflight](https://preflight.social) is a social media scheduler that checks every post against each network's real publishing rules before it leaves. This repository holds the public description of its hosted MCP server: how to connect, what the tools do, and the registry metadata. The server itself is hosted at `https://preflight.social/mcp`; its source is not in this repository.
 
 - **Networks (12):** YouTube, TikTok, Instagram, Facebook, Threads, LinkedIn, Pinterest, Bluesky, Mastodon, Telegram, Discord, Tumblr.
