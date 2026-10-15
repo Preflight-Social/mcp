@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://preflight.social/icons/logo-square-512.png" alt="Preflight" width="96" height="96" />
+</p>
+
 # Preflight MCP server
 
-[![smithery badge](https://smithery.ai/badge/info-pcqw/preflight)](https://smithery.ai/servers/info-pcqw/preflight)
+Also listed on [Smithery](https://smithery.ai/servers/info-pcqw/preflight) and the [official MCP registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=social.preflight).
 
 [Preflight](https://preflight.social) is a social media scheduler that checks every post against each network's real publishing rules before it leaves. This repository holds the public description of its hosted MCP server: how to connect, what the tools do, and the registry metadata. The server itself is hosted at `https://preflight.social/mcp`; its source is not in this repository.
 
