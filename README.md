@@ -2,7 +2,7 @@
   <img src="https://preflight.social/icons/logo-square-512.png" alt="Preflight" width="96" height="96" />
 </p>
 
-# Preflight MCP server
+# Preflight Social MCP server
 
 Also listed on [Smithery](https://smithery.ai/servers/info-pcqw/preflight) and the [official MCP registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=social.preflight).
 
